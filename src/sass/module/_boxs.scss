@@ -1,0 +1,7 @@
+@use "global" as *;
+
+.boxs {
+
+
+  @include mq("md") {}
+}
